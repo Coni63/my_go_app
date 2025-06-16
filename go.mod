@@ -1,4 +1,4 @@
-module auth_service
+module my_app
 
 go 1.24.2
 
