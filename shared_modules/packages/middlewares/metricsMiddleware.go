@@ -3,7 +3,7 @@ package middlewares
 import (
 	"fmt"
 
-	"github.com/coni63/my_app/shared_modules/packages/initializers"
+	"my_app/shared_modules/packages/initializers"
 
 	"github.com/gin-gonic/gin"
 )
